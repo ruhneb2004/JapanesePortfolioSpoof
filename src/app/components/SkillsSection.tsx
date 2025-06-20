@@ -73,7 +73,7 @@ export const Skills = () => {
         <div className="group w-24 h-24 flex flex-col items-center justify-center">
           <Icons.nextjs />
           <span className="hidden group-hover:inline-block text-xs text-white/70  absolute -bottom-3">
-            Tailwind
+            Next js
           </span>
         </div>
         <div className="group w-24 h-24 flex flex-col items-center justify-center">

@@ -97,9 +97,9 @@ const features = [
 
 export const ProjectComp = () => {
   return (
-    <div className="w-full h-full flex flex-col items-center justify-center text-black ">
+    <div className="w-full h-full flex flex-col items-center justify-center text-black">
       <MagicCard
-        className="  border-red-950 border-2 p-10 h-full w-screen flex flex-row items-end justify-center "
+        className="  border-red-950 border-2 p-10 h-full w-screen flex flex-row items-end justify-center pb-12"
         gradientColor="red"
         gradientOpacity={0.4}
         gradientSize={1800}
