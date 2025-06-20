@@ -54,7 +54,7 @@ export default function ScrollSections() {
             <div className="text-sm xl:text-base">
               I’m Benhur Benny, a computer science undergraduate from GEC
               Thrissur with a passion for full stack development and blockchain.
-              I enjoy building real-world projects, exploring new technologies,
+              I enjoy building real world projects, exploring new technologies,
               and constantly improving through hands on experience and
               hackathons.
             </div>
